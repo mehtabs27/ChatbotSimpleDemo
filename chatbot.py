@@ -23,7 +23,7 @@ PDF_FILE = "document.pdf"
 CHUNK_SIZE = 250
 TOP_CHUNKS = 3
 SIMILARITY_THRESHOLD = 0.20
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.1-flash-lite"
 
 
 class Chunk(TypedDict):
