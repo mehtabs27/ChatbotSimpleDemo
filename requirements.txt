@@ -1,0 +1,5 @@
+google-genai
+numpy
+pypdf
+python-dotenv
+sentence-transformers
